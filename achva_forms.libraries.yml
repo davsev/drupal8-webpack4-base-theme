@@ -1,0 +1,9 @@
+global-css:
+  css:
+    theme:
+      assets/dist/css/main.css: {}
+global-js:
+  js:
+    assets/dist/js/bundle.js: {}
+  dependencies:
+    - core/jquery
